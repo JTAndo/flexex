@@ -13,9 +13,16 @@
 }
 .box { 
     background-color: lightseagreen;
+    border-style: double;
+    border: 20px red;
+    padding: 5px;
 
 }
-#one { 
-    border: 4px red;
-    background-color: blue;
+#logo { 
+    color: red;
+    font-weight: 600;
+    font-size: x-large;
+    margin-left: 350px;
+    margin-right: 350px;
+    
 }
