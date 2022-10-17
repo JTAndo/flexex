@@ -1,0 +1,21 @@
+.body { 
+    height: 230px;
+    width: auto;
+}
+.container { 
+    height: 100px;
+    width: auto;
+    background-color: bisque;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.box { 
+    background-color: lightseagreen;
+
+}
+#one { 
+    border: 4px red;
+    background-color: blue;
+}
