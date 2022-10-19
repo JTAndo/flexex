@@ -10,12 +10,22 @@ body {
 .container {
     display: flex;
 }
-  img {
+.container2{
+    display: flex;
+    justify-content: space-between;
+
+}
+img {
     width: 100px;
     height: 100px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 52px;
+    margin-right: 52px;
   }
   .text{
     margin: 52px;
+    width: 200px;
   }
   
   .title {
