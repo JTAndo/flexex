@@ -73,10 +73,14 @@ body {
 }
 
 button {
+  
   padding: 8px 16px;
   border-radius: 8px;
 }
-
+.bottom { 
+    display: flex;
+    justify-content: center;
+}
 button.continue {
   background: royalblue;
   border: 1px solid royalblue;
